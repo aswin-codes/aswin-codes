@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Prepy ( AI study app )<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about MERN, Flutter and React Native
+🔭 I’m currently working on mealGPT ( AI meal suggestion app )<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about MERN, Flutter and React Native
 
 
 ## 🌐 Socials:
